@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is D209-8251
+
+ Directory of C:\Users\Joao\my-first-project\my-second-project\ES1-2017-METIA-55
+
+11/10/2017  13:54    <DIR>          .
+11/10/2017  13:54    <DIR>          ..
+11/10/2017  13:54                 0 my-local-file.txt
+11/10/2017  13:52                62 README.md
+               2 File(s)             62 bytes
+               2 Dir(s)  314ÿ731ÿ470ÿ848 bytes free
